@@ -32,13 +32,10 @@ ollama create localdoc_qwen3 -f Modelfile
 
 ## Usage
 
-Next, we load the model and your Python file. By default we load the downloaded Qwen3 0.6B model and generate Google-style docstrings, but you can also specify different docstring formats.
+Next, we load the model and your Python file. By default we load the downloaded Qwen3 0.6B model and generate Google-style docstrings.
 
 ```bash
 python localdoc.py --file your_script.py
-
-# optionally, specify model and docstring style
-python localdoc.py --file your_script.py --model localdoc_qwen3 --style google
 ```
 
 The tool will generate an updated file with `_documented` suffix (e.g., `your_script_documented.py`).
