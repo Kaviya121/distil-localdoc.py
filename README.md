@@ -1,6 +1,7 @@
 # Distil-localdoc
-<img src="logo.png" alt="drawing" width="200"/>
-
+<p align="center">
+    <img src="logo.png" alt="drawing" width="400"/>
+</p>
 
 We trained an SLM assistant for automatic Python documentation - a Qwen3 0.6B parameter model that generates complete, properly formatted docstrings for your code in Google style. Run it locally, keeping your proprietary code secure!
 
